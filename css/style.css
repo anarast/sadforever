@@ -1,0 +1,435 @@
+body {
+  font-family: 'Sanchez', serif;
+}
+
+.eyeball {
+  position: absolute;
+	width: 30px;
+	height: 30px;
+	top: 75px;
+	left: -14px;
+	background: #ffff99;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+}
+
+.iris {
+  position: absolute;
+	width: 15px;
+	height: 15px;
+	top: 82.45px;
+	left: -6.8px;
+	background: #b3d9ff;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+}
+
+div.iris:hover {
+	background-color: #ffff99;
+}
+
+.eye-curve-down {
+  position: absolute;
+  width: 75px;
+  height: 15px;
+  top: 65px;
+  left: -42px;
+  border: solid 5px #000;
+  border-color: #ffff99 transparent transparent transparent;
+  border-radius: 200%/100px 100px 0 0;
+}
+
+.eye-curve-up {
+  position: absolute;
+  width: 75px;
+  height: 15px;
+  top: 91px;
+  left: -42px;
+  border: solid 5px #000;
+  border-color: #ffff99 transparent transparent transparent;
+  border-radius: 200%/100px 100px 0 0;
+  transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-webkit-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+}
+
+.index-triangle {
+	width: 0px;
+	height: 0px;
+	border-style: inset;
+	border-width: 0 260px 450px 260px;
+	border-color: transparent transparent #b3d9ff transparent;
+	transform: rotate(360deg);
+	-ms-transform: rotate(360deg);
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-o-transform: rotate(360deg);
+	margin-left: 90px;
+	margin-top: 80px;
+}
+
+.triangle-text1 {
+  font-family: 'Dosis', sans-serif;
+  letter-spacing: 6px;
+	top: 140px;
+	left: -71.5px;
+	position: relative;
+	font-size: 70px;
+}
+
+.triangle-text2 {
+  font-family: 'Dosis', sans-serif;
+  letter-spacing: 6px;
+	top: 155px;
+	left: -71.5px;
+	position: relative;
+	font-size: 70px;
+}
+
+.triangle-text3 {
+  font-family: 'Dosis', sans-serif;
+  letter-spacing: 6px;
+	top: 170px;
+	left: -95px;
+	position: relative;
+	font-size: 70px;
+}
+
+.sad {
+  background-color: #b3ffe0;
+  padding: 0px 3px 0px 3px;
+}
+
+a.sad:link, a.sad:visited, a.sad:active {
+	text-decoration: none;
+	color: #ffff99;
+}
+
+a.sad:hover {
+	color: #b3d9ff;
+}
+
+a:link, a:visited, a:active {
+	text-decoration: none;
+	color: black;
+	cursor: pointer;
+}
+
+.index-nav {
+  font-family: 'Dosis', sans-serif;
+  letter-spacing: 2px;
+  font-size: 40px;
+  color: #b3ffcc;
+  padding-left: 130px;
+  padding-top: 20px;
+}
+
+a.nav-colour:link, a.nav-colour:visited, a.nav-colour:active {
+	text-decoration: none;
+	color: #b3ffcc;
+}
+
+a.nav-colour:hover {
+  color: #b3d9ff;
+  background-color: #ffff99;
+}
+
+.standard-centre {
+  width: 700px;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.centre {
+  width: 580px;
+  height: 480px;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 50px;
+  right: 0;
+  margin: auto;
+}
+
+.square-1 {
+	float: left;
+	position: relative;
+	width: 40%;
+	padding-bottom: 30%;
+	margin:1.7%;
+	background-color: #ffccff;
+}
+
+.square-2 {
+	float: left;
+	position: relative;
+	width: 40%;
+	padding-bottom: 30%;
+	margin:1.7%;
+	background-color: #b3d9ff;
+}
+
+.square-3 {
+	float: left;
+	position: relative;
+	width: 40%;
+	padding-bottom: 30%;
+	margin:1.7%;
+	background-color: #b3ffe0;
+}
+
+.square-4 {
+	float: left;
+	position: relative;
+	width: 40%;
+	padding-bottom: 30%;
+	margin:1.7%;
+	background-color: #ffff99;
+}
+
+a.square-1:hover {
+	background-color: #ffff99;
+}
+
+a.square-2:hover {
+	background-color: #b3ffe0;
+}
+
+a.square-3:hover {
+	background-color: #b3d9ff;
+}
+
+a.square-4:hover {
+	background-color: #ffccff;
+}
+
+.square-text {
+  font-family: 'Dosis', sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  position: absolute;
+  top: 65px;
+  left: 35px;
+  padding: 3px 6px 3px 3px;
+}
+
+.diamond-text {
+  font-family: 'Dosis', sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+	width: 200px;
+	height: 200px;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+
+.diamond-box-1 {
+	height: 200px;
+	width: 200px;
+	float: left;
+	display: inline-block;
+	overflow: hidden;
+	margin-left: 41px;
+	margin-right: 40px;
+	margin-top: 43px;
+	background-color: #b3ffe0;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+
+.diamond-box-2 {
+	height: 200px;
+	width: 200px;
+	float: left;
+	display: inline-block;
+	overflow: hidden;
+	margin-left: 41px;
+	margin-right: 40px;
+	margin-top: 43px;
+	background-color: #ffccff;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+
+a.diamond-box-1:hover {
+	background-color: #b3d9ff;
+}
+
+a.diamond-box-2:hover {
+	background-color: #ffff99;
+}
+
+.circle-box-1 {
+  position: relative;
+  float: left;
+	width: 190px;
+	height: 190px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	background: #ffff99;
+	-moz-border-radius: 85px;
+	-webkit-border-radius: 85px;
+	border-radius: 100px;
+}
+
+.circle-box-2 {
+  position: relative;
+  float: left;
+	width: 190px;
+	height: 190px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	background: #b3ffe0;
+	-moz-border-radius: 85px;
+	-webkit-border-radius: 85px;
+	border-radius: 100px;
+}
+
+.circle-box-3 {
+  position: relative;
+  float: left;
+	width: 190px;
+	height: 190px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	background: #b3d9ff;
+	-moz-border-radius: 85px;
+	-webkit-border-radius: 85px;
+	border-radius: 100px;
+}
+
+.circle-box-4 {
+  position: relative;
+  float: left;
+	width: 190px;
+	height: 190px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	background: #ffccff;
+	-moz-border-radius: 85px;
+	-webkit-border-radius: 85px;
+	border-radius: 100px;
+}
+
+.circle-text {
+  font-family: 'Dosis', sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  position: absolute;
+  top: 65px;
+  left: 35px;
+  padding: 3px 6px 3px 3px;
+}
+
+a.circle-box-4:hover {
+	background-color: #ffff99;
+}
+
+a.circle-box-3:hover {
+	background-color: #b3ffe0;
+}
+
+a.circle-box-2:hover {
+	background-color: #b3d9ff;
+}
+
+a.circle-box-1:hover {
+	background-color: #ffccff;
+}
+
+.rect-1 {
+	float: left;
+	position: relative;
+	width: 20%;
+	padding-bottom: 30%;
+	margin:1.7%;
+	background-color: #ffccff;
+}
+
+.rect-2 {
+	float: left;
+	position: relative;
+	width: 20%;
+	padding-bottom: 30%;
+	margin:1.7%;
+	background-color: #b3d9ff;
+}
+
+.rect-3 {
+	float: left;
+	position: relative;
+	width: 20%;
+	padding-bottom: 30%;
+	margin:1.7%;
+	background-color: #b3ffe0;
+}
+
+.rect-4 {
+	float: left;
+	position: relative;
+	width: 20%;
+	padding-bottom: 30%;
+	margin:1.7%;
+	background-color: #ffff99;
+}
+
+a.rect-1:hover {
+	background-color: #ffff99;
+}
+
+a.rect-2:hover {
+	background-color: #b3ffe0;
+}
+
+a.rect-3:hover {
+	background-color: #b3d9ff;
+}
+
+a.rect-4:hover {
+	background-color: #ffccff;
+}
+
+.rect-text {
+  font-family: 'Dosis', sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  padding: 3px 6px 30px 3px;
+}
+
+/*FEELS LIKE HOME*/
+
+
+.home {
+	font-family: Arvo-Regular;
+	line-height: 1.4;
+	padding-top: 5px;
+	font-size: 15.5px;
+}
+
+.home a:link, .home a:visited, .home a:active {
+	text-decoration: none;
+	color: rgb(0,0,0);
+}
