@@ -13,14 +13,13 @@ layout: default
 		<div class="eye-curve-up"></div>
 
 		<div class="triangle-text1">
-			<a class="sad" href="/images/tswift.jpg">S</a><a class="sad" href="/images/asleep.gif">A</a><a style="letter-spacing: 0px;" class="sad" href="/images/ayo.jpg">D</a>
+			<a class="sad" href="{{ "/assets/tswift.jpg" | prepend: site.baseurl }}">S</a><a class="sad" href="{{ "/assets/asleep.gif" | prepend: site.baseurl }}">A</a><a style="letter-spacing: 0px;" class="sad" href="{{ "/assets/ayo.jpg" | prepend: site.baseurl }}">D</a>
 		</div>
 		<div class="triangle-text2">
-			<a class="sad" href="/images/cyanide.jpg">F</a><a class="sad" href="/images/fart.jpg">O</a><a style="letter-spacing: 0px;" class="sad" href="/images/getmeapizza.gif">R</a>
-			<!-- &#9785 -->
+			<a class="sad" href="{{ "/assets/cyanide.jpg" | prepend: site.baseurl }}">F</a><a class="sad" href="{{ "/assets/fart.jpg" | prepend: site.baseurl }}">O</a><a style="letter-spacing: 0px;" class="sad" href="{{ "/assets/getmeapizza.gif" | prepend: site.baseurl }}">R</a>
 		</div>
 		<div class="triangle-text3">
-			<a class="sad" href="images/ericware.gif">E</a><a class="sad" href="/images/themoonsickness.png">V</a><a class="sad" href="/images/AnniDifficili.gif">E</a><a style="letter-spacing: 0px;" class="sad" href="/images/youwerecool.jpg">R</a>
+			<a class="sad" href="{{ "/assets/ericware.gif" | prepend: site.baseurl }}">E</a><a class="sad" href="{{ "/assets/themoonsickness.png" | prepend: site.baseurl }}">V</a><a class="sad" href="{{ "/assets/AnniDifficili.gif" | prepend: site.baseurl }}">E</a><a style="letter-spacing: 0px;" class="sad" href="{{ "/assets/youwerecool.jpg" | prepend: site.baseurl }}">R</a>
 		</div>
 	</div>
 
@@ -29,12 +28,13 @@ layout: default
         <a class="nav-colour" href="http://blargh.sadforever.me">BLOG</a>
 			</span> //
 		<span>
-			  <a class="nav-colour" href="sotries.html">SOTRIES</a>
+				<a class="nav-colour" href="{{ "sotries" | prepend: site.baseurl }}">SOTRIES</a>
 			</span> //
 		<span>
-			  <a class="nav-colour" href="podcasts/pods.html">PODS</a>
+			  <a class="nav-colour" href="{{ "pods" | prepend: site.baseurl }}">PODS</a>
 			</span>
 	</div>
+
 </body>
 
 <script>
@@ -45,5 +45,4 @@ layout: default
 
   ga('create', 'UA-86407452-1', 'auto');
   ga('send', 'pageview');
-
 </script>
