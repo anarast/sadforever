@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<body>
+	<div style="padding-left: 100px;" class="centre">
+    {% for post in site.posts %}
+    		<time>{{ post.date | date: "%b %-d, %Y" }}</time>
+    		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    {% endfor %}
+		<a class="circle-box-1" href="grunkle.html">
+			<div style="background-color: #b3ffe0;" class="circle-text">
+				<em>GRUNKLE</em>
+			</div>
+		</a>
+
+		<a class="circle-box-2" href="pipi.html">
+			<div style="background-color: #ffff99;" class="circle-text">
+			  <em>PI PHI</em>
+			</div>
+		</a>
+
+		<a class="circle-box-3" href="barista.html">
+			<div style="background-color: #ffccff;" class="circle-text">
+			  <em>THE BARISTA</em>
+			</div>
+		</a>
+
+		<a class="circle-box-4" href="thedoughnuts.html">
+			<div style="background-color: #b3d9ff;" class="circle-text">
+			  <em>THE DOUGHNUTS</em>
+			</div>
+		</a>
+	</div>
+</body>

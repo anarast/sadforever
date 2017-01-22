@@ -150,7 +150,7 @@ a.nav-colour:hover {
 
 .centre {
   width: 580px;
-  height: 480px;
+  height: 520px;
   position: absolute;
   top:0;
   bottom: 0;
@@ -159,40 +159,12 @@ a.nav-colour:hover {
   margin: auto;
 }
 
-.square-1 {
+.square {
 	float: left;
 	position: relative;
 	width: 40%;
 	padding-bottom: 30%;
 	margin:1.7%;
-	background-color: #ffccff;
-}
-
-.square-2 {
-	float: left;
-	position: relative;
-	width: 40%;
-	padding-bottom: 30%;
-	margin:1.7%;
-	background-color: #b3d9ff;
-}
-
-.square-3 {
-	float: left;
-	position: relative;
-	width: 40%;
-	padding-bottom: 30%;
-	margin:1.7%;
-	background-color: #b3ffe0;
-}
-
-.square-4 {
-	float: left;
-	position: relative;
-	width: 40%;
-	padding-bottom: 30%;
-	margin:1.7%;
-	background-color: #ffff99;
 }
 
 a.square-1:hover {

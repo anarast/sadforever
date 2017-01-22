@@ -1,0 +1,19 @@
+- name: SARA + THE COMPUTER
+  colour-bg: '#ffccff'
+  colour-text: '#b3ffe0'
+  colour-hover: '#ffff99'
+
+- name: ABSURDISM
+  colour-bg: '#b3d9ff'
+  colour-text: '#ffff99'
+  colour-hover: '#b3ffe0'
+
+- name: CHERRY PIE
+  colour-bg: '#b3ffe0'
+  colour-text: '#ffccff'
+  colour-hover: '#b3d9ff'
+
+- name: MISC
+  colour-bg: '#ffff99'
+  colour-text: '#b3d9ff'
+  colour-hover: '#ffccff'
