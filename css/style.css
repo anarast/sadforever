@@ -2,6 +2,8 @@ body {
   font-family: 'Sanchez', serif;
 }
 
+/* PYRAMID STYLES */
+
 .eyeball {
   position: absolute;
 	width: 30px;
@@ -138,6 +140,8 @@ a.nav-colour:hover {
   background-color: #ffff99;
 }
 
+/* STANDARD STYLES */
+
 .standard-centre {
   width: 700px;
   position: absolute;
@@ -158,6 +162,8 @@ a.nav-colour:hover {
   right: 0;
   margin: auto;
 }
+
+/* DIRECTORY SHAPES */
 
 .square {
 	float: left;
@@ -262,7 +268,7 @@ a.nav-colour:hover {
 	line-height: 2em;
 }
 
-/*FEELS LIKE HOME*/
+/* FEELS LIKE HOME */
 
 .home {
 	font-family: Arvo-Regular;
