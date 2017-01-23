@@ -167,22 +167,6 @@ a.nav-colour:hover {
 	margin:1.7%;
 }
 
-a.square-1:hover {
-	background-color: #ffff99;
-}
-
-a.square-2:hover {
-	background-color: #b3ffe0;
-}
-
-a.square-3:hover {
-	background-color: #b3d9ff;
-}
-
-a.square-4:hover {
-	background-color: #ffccff;
-}
-
 .square-text {
   font-family: 'Dosis', sans-serif;
   font-size: 16px;
@@ -329,56 +313,12 @@ a.circle-box-1:hover {
 	background-color: #ffccff;
 }
 
-.rect-1 {
+.rect {
 	float: left;
 	position: relative;
 	width: 20%;
 	padding-bottom: 30%;
 	margin:1.7%;
-	background-color: #ffccff;
-}
-
-.rect-2 {
-	float: left;
-	position: relative;
-	width: 20%;
-	padding-bottom: 30%;
-	margin:1.7%;
-	background-color: #b3d9ff;
-}
-
-.rect-3 {
-	float: left;
-	position: relative;
-	width: 20%;
-	padding-bottom: 30%;
-	margin:1.7%;
-	background-color: #b3ffe0;
-}
-
-.rect-4 {
-	float: left;
-	position: relative;
-	width: 20%;
-	padding-bottom: 30%;
-	margin:1.7%;
-	background-color: #ffff99;
-}
-
-a.rect-1:hover {
-	background-color: #ffff99;
-}
-
-a.rect-2:hover {
-	background-color: #b3ffe0;
-}
-
-a.rect-3:hover {
-	background-color: #b3d9ff;
-}
-
-a.rect-4:hover {
-	background-color: #ffccff;
 }
 
 .rect-text {

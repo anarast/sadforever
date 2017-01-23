@@ -1,19 +1,27 @@
 - name: SARA + THE COMPUTER
+  code-name: sc
   colour-bg: '#ffccff'
   colour-text: '#b3ffe0'
   colour-hover: '#ffff99'
+  url: sc
 
 - name: ABSURDISM
+  code-name: ab
   colour-bg: '#b3d9ff'
   colour-text: '#ffff99'
   colour-hover: '#b3ffe0'
+  url: absurdism
 
 - name: CHERRY PIE
+  code-name: cp
   colour-bg: '#b3ffe0'
   colour-text: '#ffccff'
   colour-hover: '#b3d9ff'
+  url: dear
 
 - name: MISC
+  code-name: mi
   colour-bg: '#ffff99'
   colour-text: '#b3d9ff'
   colour-hover: '#ffccff'
+  url: misc
