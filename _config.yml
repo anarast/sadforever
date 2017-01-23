@@ -1,12 +1,9 @@
 # Site settings
-title: SADFOREVER
-email: sadforeverdotme@gmail.com
+title: SAD FOREVER
 description: > # this means to ignore newlines until "baseurl:"
   Good site
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://sadforever.me" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  anarast
 
 # Build settings
 markdown: kramdown

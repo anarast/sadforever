@@ -2,25 +2,25 @@
   code-name: sc
   colour-bg: '#ffccff'
   colour-text: '#b3ffe0'
-  colour-hover: '#ffff99'
+  colour-hover: '#b3d9ff'
   url: sc
 
 - name: CHERRY PIE
   code-name: cp
-  colour-bg: '#b3ffe0'
+  colour-bg: '#b3d9ff'
   colour-text: '#ffccff'
-  colour-hover: '#b3d9ff'
+  colour-hover: '#ffff99'
   url: dear
 
 - name: MISC
   code-name: mi
   colour-bg: '#ffff99'
   colour-text: '#b3d9ff'
-  colour-hover: '#ffccff'
+  colour-hover: '#b3ffe0'
   url: misc
 
 - name: COMING SOON
-  code-name: ab
-  colour-bg: '#b3d9ff'
+  code-name: cs
+  colour-bg: '#b3ffe0'
   colour-text: '#ffff99'
-  colour-hover: '#b3ffe0'
+  colour-hover: '#ffccff'

@@ -56,7 +56,7 @@ margin-right: -10px
 
   <p><em>Sara uses her arm to make a rude noise, muttering something about not being hungry.
   The noise is loud enough to be heard by Guy and his Computer, the former of which
-  looks around and spots the other picnic.</em>
+  looks around and spots the other picnic.</em></p>
 
   <div style="font-weight: bold;">GUY</div>
   <div>(yelling) Hey! We are trying to have a civilized discussion here. Try to keep it down with the inane antics, OK?</div>
@@ -84,5 +84,4 @@ margin-right: -10px
   <p>THE END</p>
 
   <p style="padding-bottom: 15px;"><u><a href="{{ "/sotries/sc" }}">Back to list of episodes</a></u></p>
-
 </div>
