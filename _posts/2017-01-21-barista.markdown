@@ -1,0 +1,47 @@
+---
+layout: default
+title:  THE BARISTA
+categories: misc
+colour-bg: '#b3ffe0'
+colour-hover: '#b3d9ff'
+colour-text: '#ffff99'
+---
+<h1>The Barista</h1>
+
+<p>I work in a coffee shop. It's not a great job - repetitive, doesn't pay that well, often lonely.
+You only talk to the customers briefly and so you just get the most minuscule glimpse of their life -
+you become a part of their day, but it's a totally insignificant part, despite the fact that you make
+eye contact (usually) and speak to each other and sometimes brush fingertips. I think about this fairly
+often, though I try not to. I suppose that sometimes I have a short conversation with the customer, but
+then it's even worse because you sort of have this friendly camaraderie that only exists in the delicate
+dynamic of barista and customer. It evaporates as soon as I hand them their cup. It's these types of
+existential musings that I've been trying to cut down on because I think they're making me depressed.
+Anyway, this just sets the tone for what happened one day.</p>
+<p>I was at my job, making coffees, making change, whatever, when the hottest girl walks through the door.
+Like, I would consider myself pretty hot. I'll flash a smile at a girl and she'll giggle nervously. Guys
+often stumble over their order when I ask them what they want. But this girl who walked in that day, she
+was so hot that it almost hurt to look at her. It wasn't only the symmetry of her face, or the gorgeous
+golden colour of her hair, there was something else I couldn't define. Maybe her body.</p>
+<p>I've never really identified as gay, but I was definitely attracted to this girl. She comes up to the
+counter and orders an iced latte, even though it's chilly out. Cool, I think to myself. She stays at the
+shop for my entire shift, and at the very end when I'm closing up, asks if I want to get a drink with her.</p>
+<p>Obviously, I am very excited. We go to the vegan bar down the street and order the special on tap. We
+talk all night and I'm thinking about how this girl is the one, and how my coffee-shop cynicism was
+completely misguided, and we go back to her place and whisper and laugh and make out until it's time for
+me to go to work the next day.</p>
+<p>We date for a year and then she breaks up with me. Crying, she says that we just aren't working anymore
+and that she doesn't want to fight all the time. I can't stand feeling like you're constantly disappointed
+in me, she says.</p>
+<p>I still work at the coffee shop and think about her every day. It's like I've got a hole in my chest and
+I can't do anything about it. I think about how meaningless this shit is. Like, you meet someone, and it's
+incredible, and you're part of their life for the smallest amount of time relative to their lifetime, and
+then you're just forgotten about and the door is closed in your face and you just become another insignificant
+body on the earth.</p>
+
+<p><em>Discussion questions</em> (Please submit answers to <em>sadforeverdotme@gmail.com</em>):</p>
+<ol>
+  <li>What is the significance of the narrator's adjustment of sexual identity?</li>
+  <li>Compare and contrast the human connection made between barista and customer with the human connection of a romantic relationship.</li>
+  <li>Is all human connection meaningless?</li>
+</ol>
+<p><u><a href="/index.html">Back to SAD FOREVER</a></u></p>

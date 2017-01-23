@@ -26,7 +26,7 @@ colour-hover: '#ffccff'
     <br />
 
     <audio controls>
-      <source src="/audio/coffeeclub3.mp3" type="audio/mpeg"/>
+      <source src="/assets/coffeeclub3.mp3" type="audio/mpeg"/>
     </audio>
   </div>
 
@@ -40,7 +40,7 @@ colour-hover: '#ffccff'
     <br />
 
     <audio controls>
-      <source src="/audio/coffeeclub2.mp3" type="audio/mpeg"/>
+      <source src="/assets/coffeeclub2.mp3" type="audio/mpeg"/>
     </audio>
   </div>
 
@@ -54,7 +54,7 @@ colour-hover: '#ffccff'
     <br />
 
     <audio controls>
-      <source src="/audio/coffeeclub1.mp3" type="audio/mpeg"/>
+      <source src="/assets/coffeeclub1.mp3" type="audio/mpeg"/>
     </audio>
   </div>
 

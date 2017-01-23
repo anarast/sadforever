@@ -210,7 +210,7 @@ a.nav-colour:hover {
 	transform: rotate(45deg);
 }
 
-.circle-box-1 {
+.circle-box {
   position: relative;
   float: left;
 	width: 190px;
@@ -307,7 +307,6 @@ a.circle-box-1:hover {
 }
 
 /*FEELS LIKE HOME*/
-
 
 .home {
 	font-family: Arvo-Regular;
