@@ -5,13 +5,6 @@
   colour-hover: '#ffff99'
   url: sc
 
-- name: ABSURDISM
-  code-name: ab
-  colour-bg: '#b3d9ff'
-  colour-text: '#ffff99'
-  colour-hover: '#b3ffe0'
-  url: absurdism
-
 - name: CHERRY PIE
   code-name: cp
   colour-bg: '#b3ffe0'
@@ -25,3 +18,9 @@
   colour-text: '#b3d9ff'
   colour-hover: '#ffccff'
   url: misc
+
+- name: COMING SOON
+  code-name: ab
+  colour-bg: '#b3d9ff'
+  colour-text: '#ffff99'
+  colour-hover: '#b3ffe0'
