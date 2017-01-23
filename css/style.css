@@ -193,7 +193,7 @@ a.nav-colour:hover {
 	transform: rotate(-45deg);
 }
 
-.diamond-box-1 {
+.diamond-box {
 	height: 200px;
 	width: 200px;
 	float: left;
@@ -208,31 +208,6 @@ a.nav-colour:hover {
 	-ms-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
 	transform: rotate(45deg);
-}
-
-.diamond-box-2 {
-	height: 200px;
-	width: 200px;
-	float: left;
-	display: inline-block;
-	overflow: hidden;
-	margin-left: 41px;
-	margin-right: 40px;
-	margin-top: 43px;
-	background-color: #ffccff;
-	-webkit-transform: rotate(45deg);
-	-moz-transform: rotate(45deg);
-	-ms-transform: rotate(45deg);
-	-o-transform: rotate(45deg);
-	transform: rotate(45deg);
-}
-
-a.diamond-box-1:hover {
-	background-color: #b3d9ff;
-}
-
-a.diamond-box-2:hover {
-	background-color: #ffff99;
 }
 
 .circle-box-1 {

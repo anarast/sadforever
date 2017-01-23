@@ -1,7 +1,11 @@
 ---
-layout: pods
-title: Pods
-permalink: /pods/
+layout: default
+categories: pods
+name: COFFEE CLUB
+colour-bg: '#b3ffe0'
+colour-text: '#ffff99'
+colour-hover: '#ffccff'
+
 ---
 <body class="standard-centre">
   <h1>Coffee Club</h1>
