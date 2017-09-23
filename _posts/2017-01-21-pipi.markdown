@@ -6,31 +6,33 @@ colour-bg: '#b3d9ff'
 colour-hover: '#b3ffe0'
 colour-text: '#ffccff'
 ---
-<h1>Dear Pii Phii parent,</h1>
-<p>Nothing makes me as happy as knowing my daughter is a Pi Phii. Literally nothing. If I
-had a choice between world peace and my daughter being a Pii Phi, I would choose the latter
-in a heartbeat. Is this extreme? Not in my opinion.</p>
-<p>Whitney is our only child (besides my other daughter, Britney, who is not a Piii Phii).
-Whitney chose a college far from home, which made my "empty nest syndrome" flare up again
-if you know what I mean! But in Pii Beeta Phii, my daughter found a wonderful melange of
-friendship and commitment to intellectual and physical growth that has helped her blossom
-into an amazing, and larger, young woman.</p>
-<p>As a Pii Phii parent, I watched Pii Betaa Phii cultivate important life skills in Whitney.
-Throughout her years in college, I did not leave her side, but took notes on the effect of
-Pii Phii upon Whitney. The Sorority provided invaluable ways for Whitney to express and
-develop herself. At the annual Pi Betta Phi Speech Competition, Whitney gave a moving poetry
-reading with excellent diction, enunciation, and projection. She did not win this particular
-competition, but she certainly wins the My Favorite (and only) Daughter award! Haha.</p>
-<p>Whitney will always be "our little girl." But thanks to Pi PhiBe, I feel comfortable with her
-decision to join the armed forces.</p>
-<p>You may not yet realize it, but your daughter's Pi Pi experience will last forever, even after
-her death. How do I know? I'm proud to be a Pi Pi myself!</p>
-<p>With any donation, the Sorority will mail your daughter a personalized card with a special
-message on it specifying exactly how much you believe she is worth. And remember,
-when you give a gift of $425 or more, the Foundation will include a beautiful keepsake charm
-that was shipped all the way from China. Your daughter will adore this exotic gift.</p>
-<p>Thank you in advance for your incredibly generous donation. I could not be more grateful that you
-have found it in your heart to support the organization that I, and many others, hold so dear:
-Piiiiiiiiiibbbbbhhhhhiii.</p>
-<br />
-<u><a href="/index.html">Back to SAD FOREVER</a></u>
+<div class="misc-sotry">
+  <h1>Dear Pii Phii parent,</h1>
+  <p>Nothing makes me as happy as knowing my daughter is a Pi Phii. Literally nothing. If I
+  had a choice between world peace and my daughter being a Pii Phi, I would choose the latter
+  in a heartbeat. Is this extreme? Not in my opinion.</p>
+  <p>Whitney is our only child (besides my other daughter, Britney, who is not a Piii Phii).
+  Whitney chose a college far from home, which made my "empty nest syndrome" flare up again
+  if you know what I mean! But in Pii Beeta Phii, my daughter found a wonderful melange of
+  friendship and commitment to intellectual and physical growth that has helped her blossom
+  into an amazing, and larger, young woman.</p>
+  <p>As a Pii Phii parent, I watched Pii Betaa Phii cultivate important life skills in Whitney.
+  Throughout her years in college, I did not leave her side, but took notes on the effect of
+  Pii Phii upon Whitney. The Sorority provided invaluable ways for Whitney to express and
+  develop herself. At the annual Pi Betta Phi Speech Competition, Whitney gave a moving poetry
+  reading with excellent diction, enunciation, and projection. She did not win this particular
+  competition, but she certainly wins the My Favorite (and only) Daughter award! Haha.</p>
+  <p>Whitney will always be "our little girl." But thanks to Pi PhiBe, I feel comfortable with her
+  decision to join the armed forces.</p>
+  <p>You may not yet realize it, but your daughter's Pi Pi experience will last forever, even after
+  her death. How do I know? I'm proud to be a Pi Pi myself!</p>
+  <p>With any donation, the Sorority will mail your daughter a personalized card with a special
+  message on it specifying exactly how much you believe she is worth. And remember,
+  when you give a gift of $425 or more, the Foundation will include a beautiful keepsake charm
+  that was shipped all the way from China. Your daughter will adore this exotic gift.</p>
+  <p>Thank you in advance for your incredibly generous donation. I could not be more grateful that you
+  have found it in your heart to support the organization that I, and many others, hold so dear:
+  Piiiiiiiiiibbbbbhhhhhiii.</p>
+  <br />
+  <u><a href="/index.html">Back to SAD FOREVER</a></u>
+</div>

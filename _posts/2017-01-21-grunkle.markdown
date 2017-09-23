@@ -6,50 +6,52 @@ colour-bg: '#ffff99'
 colour-hover: '#ffccff'
 colour-text: '#b3ffe0'
 ---
-<h1>A revealing chat with the creator of Grunkle</h1>
-<img src="/assets/businessman.jpg">
+<div class="misc-sotry">
+  <h1>A revealing chat with the creator of Grunkle</h1>
+  <img src="/assets/businessman.jpg">
 
-<p>Grunkle is a pioneer in the groundbreaking new trend sweeping social media where users
-can send pre-selected one-word messages to each other. CEO Grant White describes it as a "funkier, more diverse"
-version of the popular app "Yo".</p>
-<p>"Yeah, 'Yo' was great," concedes White. "But compare it to Grunkle. With Grunkle, you can send five different words,
-not just one."</p>
-<p>Grunkle users can indeed select from a list of five words: Wibbly, Bundle, Foonf, Plek, and, of course, Grunkle.</p>
-<p>How were these words selected? White laughs. "I know, right? It's so random, it's so great. It's a real game changer."</p>
+  <p>Grunkle is a pioneer in the groundbreaking new trend sweeping social media where users
+  can send pre-selected one-word messages to each other. CEO Grant White describes it as a "funkier, more diverse"
+  version of the popular app "Yo".</p>
+  <p>"Yeah, 'Yo' was great," concedes White. "But compare it to Grunkle. With Grunkle, you can send five different words,
+  not just one."</p>
+  <p>Grunkle users can indeed select from a list of five words: Wibbly, Bundle, Foonf, Plek, and, of course, Grunkle.</p>
+  <p>How were these words selected? White laughs. "I know, right? It's so random, it's so great. It's a real game changer."</p>
 
-<p>Despite securing $23 million in funding, some have criticized Grunkle for being "a useless piece of crap"
- (David Pogue, The New York Times), while others posit that the app "[has] no value of any kind whatsoever"
- (Medium; Gizmodo). However, White is confident that Grunkle is the next major stride in social media and has designs
- on using his success to help out struggling startups. "We're going to use this platform as a force for good," he confides.</p>
+  <p>Despite securing $23 million in funding, some have criticized Grunkle for being "a useless piece of crap"
+  (David Pogue, The New York Times), while others posit that the app "[has] no value of any kind whatsoever"
+  (Medium; Gizmodo). However, White is confident that Grunkle is the next major stride in social media and has designs
+  on using his success to help out struggling startups. "We're going to use this platform as a force for good," he confides.</p>
 
-<p>White's most recent investment is with a dedicated communication app called Instant Messaging.
-"I met with the guys a couple years ago, and they pitched me their idea. Let me tell you, I kicked myself for not thinking
-this one up myself. It's genuinely going to revolutionize the way we communicate."</p>
+  <p>White's most recent investment is with a dedicated communication app called Instant Messaging.
+  "I met with the guys a couple years ago, and they pitched me their idea. Let me tell you, I kicked myself for not thinking
+  this one up myself. It's genuinely going to revolutionize the way we communicate."</p>
 
-<p>Founder Branson Furby takes credit for Instant Messaging's name, explaining that
-the goal was simply to achieve the same kind of catchiness that rocketed companies like Snapchat -
-Instant Messaging's top competitor - to the big leagues. "I said to myself, OK, let's break things down a little.
-Get back to basics. You've got this name, "Snapchat." What does it really mean? Well, you've got "snap". And you've got "chat".
-Another word for snap? Instant! Another word for chat? Ha-ha, I think you know where I'm going with this."</p>
+  <p>Founder Branson Furby takes credit for Instant Messaging's name, explaining that
+  the goal was simply to achieve the same kind of catchiness that rocketed companies like Snapchat -
+  Instant Messaging's top competitor - to the big leagues. "I said to myself, OK, let's break things down a little.
+  Get back to basics. You've got this name, "Snapchat." What does it really mean? Well, you've got "snap". And you've got "chat".
+  Another word for snap? Instant! Another word for chat? Ha-ha, I think you know where I'm going with this."</p>
 
-<p>According to White, Instant Messaging, unlike Snapchat, can be used directly from the desktop. And they've forgone the
-140 character limit that plagues Twitter users. "Instant Messaging is the future," says White. "And Grunkle is leading the way."</p>
+  <p>According to White, Instant Messaging, unlike Snapchat, can be used directly from the desktop. And they've forgone the
+  140 character limit that plagues Twitter users. "Instant Messaging is the future," says White. "And Grunkle is leading the way."</p>
 
-<p>White admits that he lets his values influence the way he runs his company.</p>
+  <p>White admits that he lets his values influence the way he runs his company.</p>
 
-<p>"We're about inclusion. That's why we've made it easy to become part of the Grunkle community. We've got positions open
-for Grunkle Ambassadors. You don't get paid, but you can definitely help promote our brand. You can even host your own
-GrunkUps - meet-ups just for Grunkle enthusiasts to share their stories, exchange Grunkles, and have a great time."
+  <p>"We're about inclusion. That's why we've made it easy to become part of the Grunkle community. We've got positions open
+  for Grunkle Ambassadors. You don't get paid, but you can definitely help promote our brand. You can even host your own
+  GrunkUps - meet-ups just for Grunkle enthusiasts to share their stories, exchange Grunkles, and have a great time."
 
-<p>Interested in working for Grunkle as a paid employee? White grins. "We've got cold-pressed juice."</p>
+  <p>Interested in working for Grunkle as a paid employee? White grins. "We've got cold-pressed juice."</p>
 
-<p>When asked what he believes it will take to mitigate the pervasive lack of diversity in the tech community,
-White gives a knowing nod. "Disruption! Innovation!" He pauses, then adds, "We're just a small, passionate team."</p>
+  <p>When asked what he believes it will take to mitigate the pervasive lack of diversity in the tech community,
+  White gives a knowing nod. "Disruption! Innovation!" He pauses, then adds, "We're just a small, passionate team."</p>
 
-<p>"Grunkle is bringing people closer together," explains White. "And really, isn't that what it's all about?"</p>
-<hr />
-<p><b>Chaunch Underarm is a tech-blogger. Catch one of his Yolo Tech Talks at Hustle Con this May.<br />
-Comments on the article? Shoot Chaunch a Grunkle at @grunklin_chaunch.</b></p>
+  <p>"Grunkle is bringing people closer together," explains White. "And really, isn't that what it's all about?"</p>
+  <hr />
+  <p><b>Chaunch Underarm is a tech-blogger. Catch one of his Yolo Tech Talks at Hustle Con this May.<br />
+  Comments on the article? Shoot Chaunch a Grunkle at @grunklin_chaunch.</b></p>
 
-<br />
-<p><u><a href="/index.html">Back to SAD FOREVER</a></u></p>
+  <br />
+  <p><u><a href="/index.html">Back to SAD FOREVER</a></u></p>
+</div>

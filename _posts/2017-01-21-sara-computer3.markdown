@@ -7,10 +7,9 @@ description: Part I of an epic quest.
 colour-text: '#ffccff'
 colour-hover: '#b3d9ff'
 colour-bg: '#b3ffe0'
-padding-bottom: 110px
 margin-right: -10px
 ---
-<div style="text-align: center; font-family: 'Inconsolata', monospace;" class="standard-centre">
+<div style="text-align: center; font-family: 'Inconsolata', monospace;" class="centre">
 	  <h1>Sara & The Computer: Episode 3</h1>
 
 		<p><em>(By ST and EP)</em></p>

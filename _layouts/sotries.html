@@ -4,13 +4,11 @@ layout: default
 
 <div class="centre">
   {% for category in site.data.sotry-categories %}
-    <div>
-      <a class="square" style="background-color: {{ category.colour-bg }}" href="{{ category.url | prepend: site.baseurl }}"
-      onMouseOver="this.style.backgroundColor='{{ category.colour-hover }}'" onMouseOut="this.style.backgroundColor='{{ category.colour-bg }}'">
-        <div style="background-color: {{ category.colour-text }}" class="square-text">
-          <em>{{ category.name }}</em>
-        </div>
-      </a>
-    </div>
+    <a class="square" style="background-color: {{ category.colour-bg }}" href="{{ category.url | prepend: site.baseurl }}"
+    onMouseOver="this.style.backgroundColor='{{ category.colour-hover }}'" onMouseOut="this.style.backgroundColor='{{ category.colour-bg }}'">
+      <div style="background-color: {{ category.colour-text }}" class="square-text">
+        <em>{{ category.name }}</em>
+      </div>
+    </a>
   {% endfor %}
 </div>

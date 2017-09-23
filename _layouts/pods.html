@@ -5,14 +5,12 @@ layout: default
 <div class="centre">
   {% for post in site.posts %}
 	  {% if post.categories contains "pods" %}
-			<div>
-				<a class="diamond-box" style="background-color: {{ post.colour-bg }}" href="{{ post.url }}"
-				onMouseOver="this.style.backgroundColor='{{ post.colour-hover }}'" onMouseOut="this.style.backgroundColor='{{ post.colour-bg }}'">
-					<div class="diamond-text">
-						<em style="padding: 3px 6px 3px 3px; background-color: {{ post.colour-text }};">{{ post.name }}</em>
-					</div>
-				</a>
-			</div>
+			<a class="diamond-box" style="background-color: {{ post.colour-bg }}" href="{{ post.url }}"
+			onMouseOver="this.style.backgroundColor='{{ post.colour-hover }}'" onMouseOut="this.style.backgroundColor='{{ post.colour-bg }}'">
+				<div class="diamond-text">
+					<em style="padding: 3px 6px 3px 3px; background-color: {{ post.colour-text }};">{{ post.name }}</em>
+				</div>
+			</a>
 		{% endif %}
 	{% endfor %}
 </div>

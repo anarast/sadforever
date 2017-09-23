@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="padding-left: 100px;" class="centre">
+<div class="centre">
   {% for post in site.posts %}
 	  {% if post.categories contains "misc" %}
 			<a class="circle-box" style="background-color: {{ post.colour-bg }}" href="{{ post.url }}"

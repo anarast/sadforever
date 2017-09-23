@@ -7,10 +7,9 @@ description: Sara meets an old enemy.
 colour-text: '#b3ffe0'
 colour-hover: '#ffccff'
 colour-bg: '#b3d9ff'
-padding-bottom: 110px
 margin-right: -10px
 ---
-<div style="text-align: center; font-family: 'Inconsolata', monospace;" class="standard-centre">
+<div style="text-align: center; font-family: 'Inconsolata', monospace;" class="centre">
   <h1>Sara & The Computer: Episode 2</h1>
 
   <p><em>(By ST and EP)</em></p>

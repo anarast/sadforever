@@ -2,20 +2,18 @@
 layout: default
 ---
 
-<div style="padding-top: 5%;" class="standard-centre">
+<div style="padding-top: 5%;" class="centre">
   {% assign sorted_posts = site.posts | sort:"num" %}
   {% for post in sorted_posts %}
     {% if post.categories contains "sc" %}
-			<div>
-				<a class="rect" style="background-color: {{ post.colour-bg }}" href="{{ post.url }}"
-        onMouseOver="this.style.backgroundColor='{{ post.colour-hover }}'" onMouseOut="this.style.backgroundColor='{{ post.colour-bg }}'">
-					<div style="padding-bottom: {{ post.padding-bottom }}; margin-right: {{ post.margin-right }};
-          background-color: {{ post.colour-text }};" class="rect-text">
-						<em>EPISODE {{ post.num }}</em>
-						<p>{{ post.description }}</p>
-					</div>
-				</a>
-			</div>
+			<a class="rect" style="background-color: {{ post.colour-bg }}" href="{{ post.url }}"
+			onMouseOver="this.style.backgroundColor='{{ post.colour-hover }}'" onMouseOut="this.style.backgroundColor='{{ post.colour-bg }}'">
+				<div style="margin-right: {{ post.margin-right }};
+				background-color: {{ post.colour-text }};" class="rect-text">
+					<em>EPISODE {{ post.num }}</em>
+					<p>{{ post.description }}</p>
+				</div>
+			</a>
     {% endif %}
   {% endfor %}
 </div>

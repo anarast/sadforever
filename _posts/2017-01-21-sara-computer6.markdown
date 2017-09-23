@@ -7,10 +7,9 @@ description: Flying Discs, Part I
 colour-text: '#ffff99'
 colour-hover: '#b3ffe0'
 colour-bg: '#b3d9ff'
-padding-bottom: '110px'
 margin-right: '-10px'
 ---
-<div style="text-align: center; font-family: 'Inconsolata', monospace;" class="standard-centre">
+<div style="text-align: center; font-family: 'Inconsolata', monospace;" class="centre">
   <h1>Sara & The Computer: Episode 6</h1>
 
   <p><em>(By ST and EP)</em></p>

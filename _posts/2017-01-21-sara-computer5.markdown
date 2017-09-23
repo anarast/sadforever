@@ -7,10 +7,9 @@ description: A picnic is disturbed by some unwelcome guests.
 colour-text: '#b3ffe0'
 colour-hover: '#ffff99'
 colour-bg: '#ffccff'
-padding-bottom: 50px
 margin-right: -10px
 ---
-<div style="text-align: center; font-family: 'Inconsolata', monospace;" class="standard-centre">
+<div style="text-align: center; font-family: 'Inconsolata', monospace;" class="centre">
 
   <h1>Sara & The Computer: Episode 5</h1>
 
