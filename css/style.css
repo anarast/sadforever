@@ -65,7 +65,7 @@ a.nav-colour:hover {
 
 .centre {
 	text-align: center;
-	padding-top: 5%;
+	padding-top: 100px;
 }
 
 /* DIRECTORY SHAPES */
@@ -74,7 +74,7 @@ a.nav-colour:hover {
 	position: relative;
 	width: 220px;
 	padding-bottom: 40%;
-	margin: 5px auto;
+	margin: 5px;
 	overflow-x: hidden;
 	display:inline-block;
 }
@@ -97,7 +97,6 @@ a.nav-colour:hover {
 	height: 200px;
 	display: table-cell;
 	vertical-align: middle;
-	text-align: center;
 	-webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
@@ -108,8 +107,7 @@ a.nav-colour:hover {
 .diamond-box {
 	height: 180px;
 	width: 180px;
-	margin-bottom: 40px;
-	margin-top: 15%;
+	margin: 40px;
 	display: inline-block;
 	overflow: hidden;
 	background-color: #b3ffe0;
@@ -202,9 +200,9 @@ a.nav-colour:hover {
 		height: 0px;
 		border-style: inset;
 		border-color: transparent transparent #b3d9ff transparent;
-  	border-width: 0 260px 450px 260px;
-  	margin-left: 90px;
-  	margin-top: 80px;
+		border-width: 0 260px 450px 260px;
+		margin-left: 90px;
+		margin-top: -40px;
 	}
 	
   .triangle-text1 {
@@ -235,18 +233,15 @@ a.nav-colour:hover {
 	}
 	
 	.square {
-		float: left;
 		position: relative;
-		width: 40%;
-		padding-bottom: 30%;
-		margin:1.7%;
+		width: 300px;
+		height: 200px;
+		padding-bottom: 0;
 	}
 
 	.diamond-box {
 		height: 200px;
 		width: 200px;
-		display: inline-block;
-		overflow: hidden;
 		margin-left: 41px;
 		margin-right: 40px;
 		margin-top: 43px;
@@ -256,8 +251,6 @@ a.nav-colour:hover {
 	.circle-box {
 		position: relative;
 		float: left;
-		width: 190px;
-		height: 190px;
 		margin-right: 20px;
 		margin-bottom: 20px;
 	}
@@ -277,6 +270,6 @@ a.nav-colour:hover {
 		left: 0;
 		right: 0;
 		margin: auto;
-		padding-top: 0;
+		padding-top: 150px;
 	}
 }
