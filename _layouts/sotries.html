@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="centre">
+<div style="padding-top: 10%;" class="centre">
   {% for category in site.data.sotry-categories %}
     <a class="square" style="background-color: {{ category.colour-bg }}" href="{{ category.url | prepend: site.baseurl }}"
     onMouseOver="this.style.backgroundColor='{{ category.colour-hover }}'" onMouseOut="this.style.backgroundColor='{{ category.colour-bg }}'">

@@ -9,7 +9,7 @@ colour-hover: '#ffccff'
 colour-bg: '#b3ffe0'
 margin-right: -10px
 ---
-<div style="text-align: center; font-family: 'Inconsolata', monospace;" class="centre">
+<div style="text-align: center; font-family: 'Inconsolata', monospace;" class="centre misc-sotry">
 	  <h1>Sara & The Computer: Episode 4</h1>
 
 		<p><em>(By ST and EP)</em></p>

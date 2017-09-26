@@ -54,4 +54,3 @@ colour-text: '#b3ffe0'
 
   <br />
   <p><u><a href="/index.html">Back to SAD FOREVER</a></u></p>
-</div>

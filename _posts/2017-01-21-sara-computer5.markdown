@@ -9,7 +9,7 @@ colour-hover: '#ffff99'
 colour-bg: '#ffccff'
 margin-right: -10px
 ---
-<div style="text-align: center; font-family: 'Inconsolata', monospace;" class="centre">
+<div style="text-align: center; font-family: 'Inconsolata', monospace;" class="centre misc-sotry">
 
   <h1>Sara & The Computer: Episode 5</h1>
 
