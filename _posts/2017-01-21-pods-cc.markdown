@@ -7,7 +7,7 @@ colour-text: '#ffff99'
 colour-hover: '#ffccff'
 
 ---
-<body class="standard-centre">
+<body class="misc-sotry">
   <h1>Coffee Club</h1>
 
   <div>
